@@ -14,7 +14,3 @@ is equal to the third parameter. Otherwise, return false.
         }
     }
 }
-
-    
-    
-    }
